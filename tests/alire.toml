@@ -1,0 +1,17 @@
+name = "tests"
+description = "Shiny new project"
+version = "0.1.0-dev"
+
+authors = ["Christian Stewart"]
+maintainers = ["Christian Stewart <christianstewart.v1.0@gmail.com>"]
+maintainers-logins = ["weaslepalace"]
+
+executables = ["tests"]
+[[depends-on]]
+midiridoo = "~0.1.0-dev"
+[[pins]]
+midiridoo = { path='..' }
+[[depends-on]]
+aunit = "^23.0.0"
+[[depends-on]]
+gnatcov = "^22.0.1"

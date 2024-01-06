@@ -1,0 +1,7 @@
+name = "midiridoo"
+description = "Shiny new project"
+version = "0.1.0-dev"
+
+authors = ["Christian Stewart"]
+maintainers = ["Christian Stewart <christianstewart.v1.0@gmail.com>"]
+maintainers-logins = ["weaslepalace"]
